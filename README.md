@@ -1,5 +1,5 @@
 # Configuración en MacOS y Linux
-
+holi
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
